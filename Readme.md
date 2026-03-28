@@ -1,4 +1,4 @@
-
+![WhatsApp Image 2026-03-26 at 7 34 42 PM](https://github.com/user-attachments/assets/1f428773-21ec-423e-b9a4-72966b0a75de)
 # Attenuation Measurement 2.5 GB & 10 GB
 # Attenuation-Limited Fiber Length
 
@@ -64,24 +64,19 @@ Using the power budget equation and the parameters below, determine the attenuat
 
 ---
 
-## Calculation
-<img width="941" height="1600" alt="image" src="https://github.com/user-attachments/assets/3fa7f7ab-6987-4c2b-b0e3-08d8b79d34f2" />
-<img width="1034" height="1410" alt="image" src="https://github.com/user-attachments/assets/5ebd63bd-d7ab-4e93-b6b0-94c280d47316" />
+## Analysis and Report
+Compare simulation results with pre-lab calculations and record observations.  
+![WhatsApp Image 2026-03-26 at 7 34 24 PM](https://github.com/user-attachments/assets/aff87c2f-68b0-485f-b8f7-c08bce629aff)
+![WhatsApp Image 2026-03-26 at 7 34 29 PM](https://github.com/user-attachments/assets/4b256750-a201-4c8c-b563-b5b1eba33785)
 
-  
-## Result
 
-The attenuation-limited fiber length was calculated using the power budget equation.
+##Tabulation
+- ![WhatsApp Image 2026-03-26 at 7 36 16 PM](https://github.com/user-attachments/assets/47a92a8f-9441-4a86-b88c-03923a709446)
 
-### Power Budget
-Power Budget = Pt − Pr = 0 − (−30) = 30 dB
+##Output
+- ![WhatsApp Image 2026-03-26 at 7 34 36 PM](https://github.com/user-attachments/assets/63a74ef6-4cd0-4a6e-9348-e190b8a2a3d9)
+![WhatsApp Image 2026-03-26 at 7 34 42 PM](https://github.com/user-attachments/assets/926270f1-6611-4852-b40e-18c4b6c1e90b)
 
-### Total Losses
-- Connector loss = 2 × 0.5 = 1 dB
-- Power margin = 6 dB
-- Remaining loss for fiber = 30 − (1 + 6) = 23 dB 
-
-### Fiber Length
-Fiber length = 23 / 0.19 ≈ 121 km
-
----
+- 
+##Result:
+Thus the attenuation-limited fiber length based on the power budget equation is calculated and the result simulated is verified.
