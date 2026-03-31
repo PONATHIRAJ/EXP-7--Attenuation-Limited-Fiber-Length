@@ -1,4 +1,3 @@
-![WhatsApp Image 2026-03-26 at 7 34 42 PM](https://github.com/user-attachments/assets/1f428773-21ec-423e-b9a4-72966b0a75de)
 # Attenuation Measurement 2.5 GB & 10 GB
 # Attenuation-Limited Fiber Length
 
